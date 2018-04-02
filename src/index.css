@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  color:white!important;
+}
+.bg-photo{
+  background-image: url("bg.jpg");
+  background-size: cover;
+  background-position: bottom;
+  height: 91vh;
+}
+.height{
+  height: 9vh;
+}
